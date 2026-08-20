@@ -131,7 +131,9 @@ nicht, weil Steam-Namen sich ändern.
 
 Außerdem kannst du dich bei einer Datenschutz-Aufsichtsbehörde beschweren.
 Zuständig ist die Behörde deines Wohnorts oder die für mich zuständige:
-[zuständige Aufsichtsbehörde].
+Landesbeauftragte für Datenschutz und Informationsfreiheit
+Nordrhein-Westfalen (LDI NRW), Kavalleriestraße 2-4, 40213 Düsseldorf,
+https://www.ldi.nrw.de
 
 ## 6. Kinder
 

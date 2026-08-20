@@ -22,10 +22,10 @@ Everything else stays on your machine.
 
 ## 1. Controller
 
-[First and last name]
-[Street and number]
-[Postcode and town]
-[Country]
+Tobias Braunsteiner
+Rodeland 17
+47574 Goch
+Germany
 
 Email: tobbra1990@outlook.de
 
@@ -123,7 +123,9 @@ names change.
 
 You may also lodge a complaint with a data protection supervisory authority,
 either where you live or the one responsible for me:
-[supervisory authority].
+Landesbeauftragte für Datenschutz und Informationsfreiheit
+Nordrhein-Westfalen (LDI NRW), Kavalleriestraße 2-4, 40213 Düsseldorf,
+https://www.ldi.nrw.de
 
 ## 6. Children
 
