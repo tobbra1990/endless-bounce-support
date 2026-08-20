@@ -22,10 +22,10 @@ Alles Übrige bleibt auf deinem Rechner.
 
 ## 1. Verantwortlicher
 
-[Vor- und Nachname]
-[Straße und Hausnummer]
-[PLZ und Ort]
-[Land]
+Tobias Braunsteiner
+Rodeland 17
+47574 Goch
+Deutschland
 
 E-Mail: tobbra1990@outlook.de
 
