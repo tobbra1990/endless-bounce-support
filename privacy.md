@@ -135,4 +135,5 @@ if you are under 16, please ask a parent or guardian first.
 ## 7. Changes
 
 If what the game processes changes, so does this policy. The current version is
-always at the address linked in the game's options and on the Steam store page.
+always at the address linked in the game's credits and on the Steam store
+page.

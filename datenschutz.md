@@ -144,5 +144,5 @@ erziehungsberechtigte Person fragen.
 ## 7. Änderungen
 
 Ändert sich, was das Spiel verarbeitet, ändert sich auch diese Erklärung. Die
-jeweils aktuelle Fassung steht unter der Adresse, die im Spiel unter Optionen
-und auf der Steam-Shopseite verlinkt ist.
+jeweils aktuelle Fassung steht unter der Adresse, die im Spiel in den
+Credits und auf der Steam-Shopseite verlinkt ist.
