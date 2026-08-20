@@ -27,7 +27,7 @@ Everything else stays on your machine.
 [Postcode and town]
 [Country]
 
-Email: tobbra1990@outlook.de
+Email: [contact email]
 
 Endless Bounce is developed and published by a single person (TB Pixelworks).
 No data protection officer has been appointed; none is legally required.
@@ -117,7 +117,7 @@ You have the right to access (Art. 15), rectification (Art. 16), erasure
 objection (Art. 21 GDPR). You may withdraw consent at any time without
 affecting the lawfulness of processing carried out until then.
 
-Just write to **tobbra1990@outlook.de**. Please include your **SteamID** — that
+Just write to **[contact email]**. Please include your **SteamID** — that
 is what identifies your entries; your name alone will not do, because Steam
 names change.
 

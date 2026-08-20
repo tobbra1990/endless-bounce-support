@@ -11,6 +11,6 @@ Die lesbare Fassung steht unter
 
 Fehler oder Wünsche zum Spiel bitte über die
 [Issues](https://github.com/tobbra1990/endless-bounce-support/issues) melden
-oder per E-Mail an tobbra1990@outlook.de.
+oder über den Feedback-Knopf im Spiel.
 
 Hier liegt **kein** Spielcode.

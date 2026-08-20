@@ -27,7 +27,7 @@ Alles Übrige bleibt auf deinem Rechner.
 [PLZ und Ort]
 [Land]
 
-E-Mail: tobbra1990@outlook.de
+E-Mail: [Kontakt-E-Mail]
 
 Endless Bounce wird von einer einzelnen Person entwickelt und herausgegeben
 (TB Pixelworks). Ein Datenschutzbeauftragter ist nicht bestellt und gesetzlich
@@ -125,7 +125,7 @@ Du hast das Recht auf Auskunft (Art. 15), Berichtigung (Art. 16), Löschung
 jederzeit widerrufen, ohne dass die bis dahin erfolgte Verarbeitung dadurch
 unrechtmäßig wird.
 
-Schreib mir dafür einfach an **tobbra1990@outlook.de**. Nenne bitte deine
+Schreib mir dafür einfach an **[Kontakt-E-Mail]**. Nenne bitte deine
 **SteamID** — daran finde ich deine Einträge; über deinen Namen allein geht es
 nicht, weil Steam-Namen sich ändern.
 

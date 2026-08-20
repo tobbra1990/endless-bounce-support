@@ -16,10 +16,12 @@ Ein Pinball-Roguelite von **TB Pixelworks**.
 - Im Spiel: **Feedback**-Knopf im Hauptmenü — der Weg mit der besten
   Fehlerbeschreibung, weil Version und System automatisch mitgehen.
 - Hier auf GitHub: [ein Thema eröffnen](https://github.com/tobbra1990/endless-bounce-support/issues)
-- Per E-Mail: **tobbra1990@outlook.de**
 
 Bei Problemen mit einem Absturz hilft mir die Protokolldatei weiter. Sie liegt
 unter `%APPDATA%\Godot\app_userdata\Endless Bounce\logs\`.
+
+*Bug, wish or question? Use the **Feedback** button in the game's main menu, or
+[open an issue](https://github.com/tobbra1990/endless-bounce-support/issues).*
 
 ---
 
